@@ -1,0 +1,6 @@
+@rocketseatNLW01ServerAlt1_HostAddress = http://localhost:5198
+
+GET {{rocketseatNLW01ServerAlt1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
